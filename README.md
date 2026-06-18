@@ -122,7 +122,7 @@ Expected output and screenshot
 > **Welcome to Docker PHP Application**
 > Docker deployment successful!
 
-<img src="screenshots/php-final-output.png" width="450"/><br/>
+<img src="screenshots/php-final-output.png" width="450" style="border: 2px solid #333;"/><br/>
 ---
 
 ## Step 8: Check Logs
