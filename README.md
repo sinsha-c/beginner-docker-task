@@ -140,3 +140,11 @@ docker logs php-container
 | `docker ps` | List running containers |
 | `docker logs php-container` | View container logs |
 | `docker images` | List available images |
+
+---
+
+##  Author
+
+**Sinsha C** — [GitHub](https://github.com/sinsha-c)
+
+---
