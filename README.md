@@ -117,12 +117,10 @@ Open your browser and navigate to:
 http://SERVER-IP:8084
 ```
 
-Expected output and screenshot
+Screenshot of expected output:
 
-> **Welcome to Docker PHP Application**
-> Docker deployment successful!
+<img src="screenshots/php-final-output.png" width="450" />
 
-<img src="screenshots/php-final-output.png" width="450" style="border: 2px solid #333;"/><br/>
 ---
 
 ## Step 8: Check Logs
