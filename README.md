@@ -77,6 +77,7 @@ index.php
 ```bash
 sudo docker build -t myphpapp:v1 .
 ```
+<img src="screenshots/docker-build.png" width="450"/><br/>
 
 Check the image was created:
 
@@ -86,6 +87,7 @@ docker images
 
 Example output:
 
+<img src="screenshots/docker-images.png" width="450"/><br/>
 ```
 REPOSITORY   TAG
 myphpapp     v1
@@ -104,7 +106,7 @@ Verify the container is running:
 ```bash
 docker ps
 ```
-
+<img src="screenshots/docker-run-ps.png" width="450"/><br/>
 ---
 
 ## Step 7: Access the Application
@@ -115,11 +117,12 @@ Open your browser and navigate to:
 http://SERVER-IP:8084
 ```
 
-Expected output:
+Expected output and screenshot
 
 > **Welcome to Docker PHP Application**
 > Docker deployment successful!
 
+<img src="screenshots/php-final-output.png" width="450"/><br/>
 ---
 
 ## Step 8: Check Logs
